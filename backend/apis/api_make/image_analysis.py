@@ -3,7 +3,7 @@ import os
 from werkzeug.utils import secure_filename
 import google.generativeai as genai
 
-GOOGLE_API_KEY = 'REMOVED'
+GOOGLE_API_KEY = 'GOOGLE_API_KEY'
 genai.configure(api_key=GOOGLE_API_KEY)
 
 app = Flask(__name__)

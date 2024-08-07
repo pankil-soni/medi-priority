@@ -1,7 +1,7 @@
 from langchain_google_genai import ChatGoogleGenerativeAI
 import os
 
-os.environ["GOOGLE_API_KEY"] = "REMOVED"
+os.environ["GOOGLE_API_KEY"] = "GOOGLE_API_KEY"
 llm = ChatGoogleGenerativeAI(model = "gemini-1.5-flash",temperature=0)
 from crewai import Agent, Task, Crew
 

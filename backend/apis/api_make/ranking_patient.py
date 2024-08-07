@@ -11,7 +11,7 @@ app = Flask(__name__)
 flask_cors.CORS(app)
 
 # Set up the environment variable for Google API Key
-os.environ["GOOGLE_API_KEY"] = "REMOVED"
+os.environ["GOOGLE_API_KEY"] = "GOOGLE_API_KEY"
 
 # Initialize the LLM model
 llm = ChatGoogleGenerativeAI(model="gemini-1.5-flash", temperature=0)

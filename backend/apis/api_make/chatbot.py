@@ -2,7 +2,7 @@ from flask import Flask, request, jsonify
 from langchain_google_genai import ChatGoogleGenerativeAI
 import flask_cors
 import os
-os.environ["GOOGLE_API_KEY"] = "REMOVED"
+os.environ["GOOGLE_API_KEY"] = "GOOGLE_API_KEY"
 app = Flask(__name__)
 flask_cors.CORS(app)
 # Initialize the LLM model
