@@ -77,11 +77,11 @@ def download_video(url, filename):
 
 def make_video(general_information,vision_information):
     text = get_polite_message(vision_information=vision_information,general_information=general_information)
-    job_id = make_video_call_request(usename="c25laHM1NDgzQGdtYWlsLmNvbQ", passwd="REMOVED", source_url="https://create-images-results.d-id.com/api_docs/assets/alice_getting_started_v3.png", input_text=text)
+    job_id = make_video_call_request(usename="c25laHM1NDgzQGdtYWlsLmNvbQ", passwd="pass", source_url="https://create-images-results.d-id.com/api_docs/assets/alice_getting_started_v3.png", input_text=text)
     print(job_id)
     print('-------------')
     time.sleep(20)
-    video_url =extract_video_link(usename="c25laHM1NDgzQGdtYWlsLmNvbQ", passwd="REMOVED", job_id=job_id)
+    video_url =extract_video_link(usename="c25laHM1NDgzQGdtYWlsLmNvbQ", passwd="pass", job_id=job_id)
     # video_url = extract_video_link(usename="bmVlbEBhdmlhdG8uY29uc3VsdGluZw", passwd="nozKyVtVAVQlIwuTw3n9X", job_id="tlk_haaNlxDsVAUBWN3lTT9fu")
     print("---------")
     download_video(url=video_url, filename="intro2.mp4")
