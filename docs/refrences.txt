@@ -1,0 +1,12 @@
+For tech:
+https://tactiq.io/
+https://docs.d-id.com/reference/get-started
+https://aistudio.google.com/app/prompts/new_chat
+https://docs.medpay.in/
+https://developers.google.com/calendar/api/quickstart/python
+
+for images:
+https://create-images-results.d-id.com/api_docs/assets/alice_getting_started_v3.png
+https://clips-presenters.d-id.com/alex/tv2VbI8lXI/MeDU8rVHxW/thumbnail.png
+
+TODO: Auto transcribe download or anything with zapier

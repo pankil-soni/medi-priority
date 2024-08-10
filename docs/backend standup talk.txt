@@ -1,0 +1,273 @@
+# backend standup
+
+  Meeting started: 6/26/2024, 11:01:41 AM
+  Duration: 51 minutes
+  Participants: Manan Raval, Neel Shah, Pooja Parsana, Prijesh Dhola, Priyank Jetani
+
+  [View original transcript](https://app.tactiq.io/api/2/u/m/r/aRZip1X6atP1lY7Tg0p3?o=txt)
+
+  
+
+  
+  
+  
+    ## Highlights
+
+    > 06:36 Prijesh Dhola: Message systems here. tomorrow
+> 08:37 Neel Shah: How am I love you guys relation category as I can either Pooja entities, you know schemas in here with apple designated machine learning Market ABC job, but now you per second Karma a projection Karina versus neo4j my issue College instance when I listen and Apache instancy a happening my love output opposite.
+> 16:52 Pooja Parsana: Print on holidays, like now you have to do working tomorrow.
+> 20:37 Prijesh Dhola: It over by tomorrow.
+> 22:52 Prijesh Dhola: As there's an important. When I get a privacy change it here. the kind
+> 31:48 Pooja Parsana: wrong Was so wrong turn. Control, no client account. I eat here was to cut. He was to mkk and password 1 2 3 4 5 6 Raku to current government their issue that I testing mama
+
+  ## Transcript
+
+  00:00 Prijesh Dhola: first time there have
+00:03 Manan Raval: Okay.
+00:04 Prijesh Dhola: Yeah. Okay. Thank you. Okay, and I usually inject ground suppositions here. Doing yeah. from templateman status idea But she update me and update me a game. changer user rank wise ever change and your data C2 replace
+01:09 Manan Raval: rubber starting material say you
+01:09 Prijesh Dhola: Okay.
+01:16 Manan Raval: starting my local Napoleon normal a curly bracket was
+01:35 Prijesh Dhola: right
+01:43 Manan Raval: Okay.
+01:44 Prijesh Dhola: Cooperation, okay. from data about the userization second It is mean.
+02:15 Manan Raval: You don't. Here welcome.
+02:24 Prijesh Dhola: admin said
+02:44 Manan Raval: I Market profile any update nothing dance with the address and Jeremy Albert announced That I admin said here. model in the you know promptness
+03:17 Prijesh Dhola: thank a user prompted admin promote
+03:27 Manan Raval: Okay. In Apache Jain doesn't appear.
+03:35 Prijesh Dhola: assumes and our
+03:38 Manan Raval: to
+03:40 Prijesh Dhola: happiness
+03:47 Manan Raval: He a two but at 8:30.
+03:55 Prijesh Dhola: best
+03:55 Manan Raval: No, okay. I got any already.
+04:01 Prijesh Dhola: recommendation recommendation
+04:20 Manan Raval: but break it was
+04:27 Prijesh Dhola: are
+04:29 Manan Raval: Okay.
+04:46 Prijesh Dhola: It again.
+04:50 Manan Raval: Okay, the terrible, you know. Okay, default rank capability one two, three, four five another money.
+05:06 Prijesh Dhola: a username collection update that I
+05:09 Manan Raval: Okay. You know Collection 18.
+05:16 Prijesh Dhola: I
+05:24 Manan Raval: Hi.
+05:32 Prijesh Dhola: the update around here Okay. Find out. a you share world Hello welcome.
+06:02 Manan Raval: you
+06:06 Prijesh Dhola: Ed like select temperatures like WhatsApp check will open messages, right?
+06:36 Prijesh Dhola: Message systems here. tomorrow
+07:08 Prijesh Dhola: I knew but
+07:11 Neel Shah: camera, delete please
+07:26 Prijesh Dhola: know that update crowd I'm Market profile camera insert them in New York
+07:41 Neel Shah: When supposed stomach clientele and automatic detector real estate calcium storage and an aperture client name of Industry out there. Umerical m duplicate data meet functionality rock is a kid duplication and data.
+08:12 Prijesh Dhola: area
+08:12 Neel Shah: Graham back and my data stores files to Roma you any function say
+08:20 Prijesh Dhola: Okay. Oh, I'm gonna like Market profiling with him.
+08:26 Manan Raval: No Marketplace.
+08:28 Prijesh Dhola: but the community
+08:31 Manan Raval: Current YouTube Channel, please.
+08:37 Neel Shah: How am I love you guys relation category as I can either Pooja entities, you know schemas in here with apple designated machine learning Market ABC job, but now you per second Karma a projection Karina versus neo4j my issue College instance when I listen and Apache instancy a happening my love output opposite.
+09:15 Neel Shah: Okay, the Bible like my instance projections, there's an update karamatic job when I personally a job application below recommendation
+09:35 Prijesh Dhola: that I
+09:41 Neel Shah: But yeah. Today, yeah, and number 11. Away exchange characters here no ideas. in person
+10:07 Prijesh Dhola: Yeah. Okay.
+10:14 Neel Shah: Ecologic job binary participation called her say another place, please.
+10:30 Prijesh Dhola: Okay. So are you
+10:40 Neel Shah: subscribe
+10:42 Prijesh Dhola: successful you
+10:44 Neel Shah: okay, and
+10:45 Prijesh Dhola: is that when you hear recommendation model train
+10:55 Neel Shah: mmm job
+10:56 Prijesh Dhola: time we almost
+11:03 Neel Shah: automation
+11:27 Prijesh Dhola: What are you?
+11:41 Neel Shah: Not found database not only errors.
+11:49 Manan Raval: Is not coming.
+11:54 Neel Shah: no matter
+11:58 Prijesh Dhola: Hello. know
+12:04 Neel Shah: Sorry bigquery operation.
+12:38 Neel Shah: Alma khalijay recommendation you
+12:41 Prijesh Dhola: last joke you
+12:51 Neel Shah: know and daughter search service name service name recommendation model training
+13:05 Prijesh Dhola: I don't think
+13:07 Neel Shah: She didn't triggers, you know, bigger. now you in our trigger order
+13:28 Prijesh Dhola: line number but not
+13:42 Neel Shah: my area
+13:44 Prijesh Dhola: Okay. Oh the uration is not found without. Okay here.
+14:17 Neel Shah: it would just
+14:37 Prijesh Dhola: Hello.
+14:45 Neel Shah: Okay, any app engine relationship?
+14:57 Prijesh Dhola: subscription or
+15:00 Priyank Jetani: of
+15:00 Prijesh Dhola: Hello.
+15:03 Priyank Jetani: I haven't been a message. Okay, but the most attractive and a front end gate and Sorry by APA upanishad. into four now static monkey do But you can in a purchase the state. because my mother ah subscription
+15:32 Prijesh Dhola: subscription
+15:37 Priyank Jetani: for now The TG so that I can give them payment novel aperture.
+15:46 Prijesh Dhola: and comment Buckingham
+15:49 Priyank Jetani: oh that you
+15:50 Prijesh Dhola: epayment
+15:56 Priyank Jetani: Are gonna come get here?
+16:10 Prijesh Dhola: 2018
+16:11 Priyank Jetani: The numbers are subscription here.
+16:19 Pooja Parsana: Automated working Dogma. Would more body was to confusing her. I don't know. So he was too clear. message
+16:51 Prijesh Dhola: Okay.
+16:52 Pooja Parsana: Print on holidays, like now you have to do working tomorrow.
+17:07 Pooja Parsana: can't get
+17:08 Priyank Jetani: Working good now good boy.
+17:13 Prijesh Dhola: Okay.
+17:15 Pooja Parsana: more videos
+17:26 Priyank Jetani: Emma every dish like a function a data company game, but the end of The Bella everybody function will be argument past.
+17:35 Pooja Parsana: The function called Thai Jana and
+17:35 Priyank Jetani: Ihr argument Pasteur.
+17:40 Pooja Parsana: another Char argument required Jonas pass.
+17:45 Priyank Jetani: Okay function now, but I don't function call Tiger a functions all good and opportunity function my real money here. Function and better than my functional local, right?
+18:02 Pooja Parsana: on our studio priyankana you
+18:02 Prijesh Dhola: Okay. Also tea look weird error check like, okay.
+18:16 Priyank Jetani: are not
+18:18 Pooja Parsana: Please subscribe. And I get close to an interconnected track is a limited nothing. my channel
+19:11 Prijesh Dhola: It will.
+19:35 Pooja Parsana: Federal person don't even Priyanka number divisions here.
+19:44 Prijesh Dhola: Okay a question, okay. Get all Handler manage Earth. Quakes and APM again without you Okay. It is one stories agent. For instead of model connected models are there.
+20:21 Pooja Parsana: Huh?
+20:22 Prijesh Dhola: Are you? responsibility
+20:25 Pooja Parsana: Okay. I added our brother response of 0 and a user details of Tomah look zero number on a two number nipple model and nothing.
+20:37 Prijesh Dhola: It over by tomorrow.
+20:38 Pooja Parsana: I like why like a responsible user details of zero and a user details of 2 Mayfield and a model, you know him already. subscribe
+21:26 Manan Raval: of children
+21:29 Pooja Parsana: so
+21:30 Manan Raval: here
+21:38 Pooja Parsana: Another happy functions. Okay, if anything else whenever know idea functionality workers here
+22:23 Pooja Parsana: an avocado later
+22:52 Prijesh Dhola: As there's an important. When I get a privacy change it here. the kind
+23:20 Prijesh Dhola: Okay, okay.
+23:51 Manan Raval: You feel good.
+23:58 Pooja Parsana: you must autom
+24:18 Prijesh Dhola: Of course.
+24:34 Pooja Parsana: meditation that nothing simple Challen
+25:00 Priyank Jetani: But then a logical level where function camera.
+25:01 Pooja Parsana: Ging tummy bear song
+25:18 Manan Raval: folder number is pleased but from
+25:26 Prijesh Dhola: Thank you. Are a man is located?
+25:54 Neel Shah: By anybody could hear and obviously. manage Kareena Pacific
+26:05 Pooja Parsana: He did. for dinner 407 and Eminem relational problem
+26:25 Manan Raval: To be attend directorina model sign in the report correction.
+26:56 Manan Raval: Okay. Well great.
+28:30 Manan Raval: Base model initial take 1 position argument, but two were given.
+28:42 Pooja Parsana: Model but under no data print Karo so the filter docs the printers. It filter docks birthday.
+28:57 Prijesh Dhola: okay, but that I
+29:02 Pooja Parsana: Party, no, no.
+29:02 Prijesh Dhola: I
+29:08 Pooja Parsana: Stop alone. Condition more cannot have an energy. Successfully run Pages Iron Man fix Karel is already. Pellu and no no.
+29:26 Prijesh Dhola: Don't know.
+29:31 Pooja Parsana: It's a non-date as an illegal in non-deta Howard, but it was to fetch it.
+29:39 Prijesh Dhola: That's cool.
+29:39 Pooja Parsana: I would But you just an hour, but none models of ignore naked women never same unique idenecker documentation.
+30:11 Manan Raval: here
+30:21 Prijesh Dhola: Okay. Well, I'm not working.
+30:34 Pooja Parsana: even in each and next might touch
+30:54 Pooja Parsana: Mara mataji successful Iran Teja dry Naturally the line number 242 parake if conditioner data is not none then up and you know. Is not none if you learned, okay. however That model near Ravi to cover new body was too successful students. Even gland necklace screen for error average and he was to be so agreement. but identical
+31:43 Prijesh Dhola: You mean? he was
+31:48 Pooja Parsana: wrong Was so wrong turn. Control, no client account. I eat here was to cut. He was to mkk and password 1 2 3 4 5 6 Raku to current government their issue that I testing mama
+32:20 Manan Raval: And deeper how it tasting mat.
+32:23 Prijesh Dhola: so
+32:29 Pooja Parsana: Credential mangwani those two doors here. At least he thought I just happening. So particular there were some.
+32:47 Manan Raval: development used to use in a development Facebook on
+32:53 Pooja Parsana: and even moreover idea Look on time.
+33:07 Priyank Jetani: God I will. design
+33:31 Manan Raval: feature
+33:43 Pooja Parsana: I had you here.
+33:43 Manan Raval: four dollar
+33:47 Prijesh Dhola: NS code but
+33:52 Neel Shah: He might. Welcome.
+34:08 Prijesh Dhola: anybody
+34:12 Pooja Parsana: It's kind of fried a last date. Okay.
+34:23 Neel Shah: Are you that that lower reinforcement
+34:28 Prijesh Dhola: Okay, okay.
+34:34 Neel Shah: learning the routine by idabra community? Oh.
+34:56 Pooja Parsana: It was still here.
+35:01 Prijesh Dhola: Wow.
+35:14 Neel Shah: I'm prijesh by below the macata than equal to my screen Shah Guru Mara my job in executory.
+35:21 Pooja Parsana: like
+35:28 Prijesh Dhola: Okay.
+35:28 Neel Shah: even of execute 3
+35:35 Prijesh Dhola: link
+35:36 Neel Shah: ha and
+35:36 Prijesh Dhola: a cloud run here
+35:44 Neel Shah: I love my blood last year.
+35:45 Prijesh Dhola: Why? China time
+35:59 Neel Shah: our
+36:02 Prijesh Dhola: each here Yeah, got to learn how to next. Look here. Same question about you.
+36:22 Neel Shah: welcome to an app b**** an hour here Okay.
+36:53 Prijesh Dhola: That's more. Good it was supposed.
+37:04 Neel Shah: And then I was and I was too much key model. J database from updates again model update here.
+37:30 Prijesh Dhola: to understand you like It was to try creation here.
+37:42 Neel Shah: How good you? Are Annabella week was two things? It was update her six second Uber cloud storage. My marriage was to change.
+38:01 Prijesh Dhola: Lapin idea
+38:03 Neel Shah: Our body just a model.
+38:11 Prijesh Dhola: 914
+38:16 Neel Shah: Are you okay? Jason injury? chillico models in here download Okay, Mom.
+38:42 Prijesh Dhola: 5
+38:45 Manan Raval: The reasons why below task now ranking order.
+38:52 Prijesh Dhola: Ranking order, okay.
+38:57 Neel Shah: always true 403 camaraji vehicles amazon.com but inside
+39:40 Prijesh Dhola: I'm done.
+39:41 Neel Shah: Hello.
+39:42 Prijesh Dhola: executed last year
+39:46 Neel Shah: How was ours?
+39:48 Prijesh Dhola: But I love you.
+39:50 Neel Shah: ha
+40:40 Neel Shah: no manananda freezer a bread
+40:47 Manan Raval: I'm here.
+40:48 Neel Shah: neo4j integration either hear guiding imagine free particular monocabulary
+41:10 Prijesh Dhola: the hard take you into
+41:10 Manan Raval: Okay.
+41:14 Neel Shah: How come but you?
+41:18 Manan Raval: Nana monakali or do you ranking system of potato?
+41:23 Neel Shah: Okay, then one three products.
+41:29 Prijesh Dhola: Okay here.
+41:36 Manan Raval: ES And bridges like you okay here.
+41:45 Prijesh Dhola: he
+41:48 Manan Raval: The backend much beer diversity they make it much. Hmm the python python for the pool sticks you to someone python hours and load Outlet. blockchain already But I'm logically cloudy with stronger. not that I Okay.
+42:31 Prijesh Dhola: Look more energy.
+42:34 Manan Raval: Blockchain somebody who cryptos right
+42:43 Prijesh Dhola: said
+42:54 Manan Raval: now logic a little stronger.
+43:03 Prijesh Dhola: Okay. Oh, yeah. All right.
+43:16 Manan Raval: Okay. Medium I didn't hear. Puzzle no no decrease request.
+43:43 Prijesh Dhola: in the first API you
+43:46 Manan Raval: again, maybe come here you
+44:11 Manan Raval: You know fast API we support the idea
+44:12 Prijesh Dhola: even
+44:13 Manan Raval: you last comment.
+44:18 Prijesh Dhola: Are not training no pretty much a Time. Any to you so tune.
+44:49 Neel Shah: Was a cut second three you are completely. use
+44:58 Prijesh Dhola: Joker
+45:03 Neel Shah: Anybody here?
+45:03 Prijesh Dhola: last Oh touch of it.
+45:14 Neel Shah: Jason file Karina to Joe Amar. Sarama, Sarah last train model just R1 and any raval's mean square error. Yeah store here. Many over X. I cannot file man
+45:35 Prijesh Dhola: Okay.
+45:36 Neel Shah: update. Thank you. very personal audio
+45:58 Prijesh Dhola: are
+45:59 Neel Shah: I am a chrome change current I
+46:02 Prijesh Dhola: know time later
+46:04 Neel Shah: understand you Okay. Huh Can you?
+46:39 Prijesh Dhola: ideas
+47:04 Prijesh Dhola: And to take you to check the radio.
+47:13 Neel Shah: Took this static to you.
+47:16 Prijesh Dhola: Okay.
+47:19 Neel Shah: My love output and I'd like you value executed.
+47:29 Prijesh Dhola: The second was my come.
+47:34 Neel Shah: It loud. two, but you
+47:48 Prijesh Dhola: I think comment change here.
+47:53 Neel Shah: of the stop
+47:57 Prijesh Dhola: the financial want to stop Open channel.
+48:20 Neel Shah: Oh College, you live. hmm Oh my company error came as much. Zero he has a great. College really soon Oh. now you I don't know. which Channel Maria
+49:44 Prijesh Dhola: right
+49:44 Neel Shah: by mananapada purchase ingredient
+49:49 Manan Raval: Oh go to the previous episode. like you
+50:34 Prijesh Dhola: He explained.
+50:38 Manan Raval: nobody changed
+50:46 Prijesh Dhola: I'm not.
+50:50 Manan Raval: Ed
+51:03 Prijesh Dhola: Sure.
+  
