@@ -8,7 +8,7 @@ from crewai import Agent, Task, Crew
 from crewai_tools import SerperDevTool,tool 
 import os
 
-os.environ["SERPER_API_KEY"] = "REMOVED"
+os.environ["SERPER_API_KEY"] = "serper_api_key"
 internet_search_tool = SerperDevTool()
 
 from crewai_tools import SerperDevTool, tool
@@ -16,7 +16,7 @@ import os
 import random
 
 # Set up the Serper API key
-os.environ["SERPER_API_KEY"] = "REMOVED"
+os.environ["SERPER_API_KEY"] = "serper_api_key"
 internet_search_tool = SerperDevTool()
 
 @tool("get remedies")
